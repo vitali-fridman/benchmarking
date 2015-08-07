@@ -1,0 +1,9 @@
+package com.shn.sid.benchmark;
+
+public class ashi {
+	
+	public static void main(String[] args) {
+		
+	}
+
+}
